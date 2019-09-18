@@ -10,8 +10,10 @@
 - [写在前面](#写在前面)
 
 - [电子书](#电子书)
+    + [软件工程](#软件工程)
     + [Java](#java)
     + [大数据](#大数据)
+    + [算法](#算法)
     + [Python](#python)
     + [JavaScript](#javascript)
     + [PHP](#php)
@@ -67,6 +69,11 @@
 + [Effective-Scala【OL】](http://twitter.github.io/effectivescala/index-cn.html)
 + [Spark快速大数据分析](bigdata/Spark快速大数据分析.pdf)
 
+### 算法
+
++ [经典算法大全](数据与算法/经典算法大全.pdf)
++ [数据结构经典问题和算法分析](数据与算法/数据结构经典问题和算法分析.pdf)
+
 ### Python
 
 + [Python基础教程(第二版)](Python/Python基础教程2.pdf)
@@ -102,6 +109,10 @@
 ### Linux
 
 + [快乐的Linux命令行【OL】](http://billie66.github.io/TLCL/index.html)
+
+### 软件工程
+
++ [敏捷软件开发：原则、模式与实践](软件工程/敏捷软件开发：原则、模式与实践.pdf)
 
 ### 其他
 
