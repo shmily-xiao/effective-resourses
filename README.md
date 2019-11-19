@@ -61,6 +61,10 @@
 + [Essential Netty in Action 《Netty 实战(精髓)》【OL】](https://waylau.com/essential-netty-in-action/)
 
 
+### kotlin
+
++ [programming-kotlin](kotlin/programming-kotlin_b10_0.pdf)
+
 ### 大数据
 
 + [Program In Scala](bigdata/Programming_in_Scala.pdf)
@@ -68,11 +72,13 @@
 + [Scala课堂(Twitter)【OL】](http://twitter.github.io/scala_school/zh_cn)
 + [Effective-Scala【OL】](http://twitter.github.io/effectivescala/index-cn.html)
 + [Spark快速大数据分析](bigdata/Spark快速大数据分析.pdf)
++ [设计数据密集型应用，网页版](https://vonng.gitbooks.io/ddia-cn/content/)
 
 ### 算法
 
 + [经典算法大全](数据与算法/经典算法大全.pdf)
 + [数据结构经典问题和算法分析](数据与算法/数据结构经典问题和算法分析.pdf)
++ [推荐系统实践](数据与算法/推荐系统实践.pdf)
 
 ### Python
 
