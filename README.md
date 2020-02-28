@@ -140,3 +140,6 @@
 ### Scala
 
 + [关于Scala的博文-作者hongjiang](http://hongjiang.info/scala/)
+
+## 优质网站
+[电子书搜索](https://www.jiumodiary.com/ )
