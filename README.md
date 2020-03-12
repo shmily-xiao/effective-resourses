@@ -46,6 +46,7 @@
 + [Java 8函数式编程](Java/Java%208函数式编程.pdf)
 + [Java Concurrency in Practice](Java/Java%20Concurrency%20in%20Practice.pdf)
 + [Java Concurrency in Practice(中文版)](Java/Java%20并发编程实战.pdf)
++ [reactive with reactor rxjava akka](Java/Reactive%20Streams%20in%20Java%20Concurrency%20with%20RxJava,%20Reactor,%20and%20Akka%20Streams%20by%20Adam%20L.%20Davis%20(z-lib.org).epub)
 + [Java并发编程常识PPT(阿里巴巴)](Java/(alibaba)%20_java_并发编程常识-梁飞.pptx)
 + [Java并发编程培训PPT(阿里巴巴)](Java/(alibaba)_Java_并发编程培训.ppt)
 + [深入理解Java虚拟机](Java/深入理解Java虚拟机：JVM高级特性与最佳实践.pdf)
