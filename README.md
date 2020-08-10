@@ -69,6 +69,8 @@
 + [Netty 实战](Java/Netty_In_Action中文版/)
 + [Essential Netty in Action 《Netty 实战(精髓)》【OL】](https://waylau.com/essential-netty-in-action/)
 + [akka in action](Java/[www.java1234.com]akka%20in%20action.pdf)
++ [akka in action 中文版 (包太大需要自行下载)](http://tesscn.aibooks.cc/file/938796-424205568)
+
 
 
 ### kotlin
