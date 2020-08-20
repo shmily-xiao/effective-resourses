@@ -57,8 +57,9 @@
 + [reactive with reactor rxjava akka](Java/Reactive%20Streams%20in%20Java%20Concurrency%20with%20RxJava,%20Reactor,%20and%20Akka%20Streams%20by%20Adam%20L.%20Davis%20(z-lib.org).epub)
 + [Java并发编程常识PPT(阿里巴巴)](Java/(alibaba)%20_java_并发编程常识-梁飞.pptx)
 + [Java并发编程培训PPT(阿里巴巴)](Java/(alibaba)_Java_并发编程培训.ppt)
-+ [深入理解Java虚拟机](Java/深入理解Java虚拟机：JVM高级特性与最佳实践.pdf)
-+ [深入理解Java内存模型](Java/think_deep_in_java_mem_model.pdf)
++ [深入理解Java虚拟机](Java/jvm/深入理解Java虚拟机：JVM高级特性与最佳实践.pdf)
++ [深入理解Java内存模型](Java/jvm/think_deep_in_java_mem_model.pdf)
++ [垃圾回收的算法与实现](Java/jvm/垃圾回收的算法与实现---文字版.pdf)
 + [Think in Patterns](Java/TIPatterns.pdf)
 + [Java 设计模式](Java/设计模式(中文版).pdf)
 + [Spring实战(第三版)](Java/Spring实战%20第3版.pdf)
@@ -139,7 +140,7 @@
 
 ### 其他
 
-+ [代码简洁之道](clean_code.pdf)
++ [代码简洁之道](Java/clean_code.pdf)
 + [编码的奥秘](编码的奥秘.pdf)
 
 
