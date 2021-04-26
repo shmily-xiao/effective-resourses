@@ -75,6 +75,7 @@
 
 ### SRE
 + [sre google 运维解密](sre/SRE_Google运维解密.pdf)
++ [k8s](sre/Kubernetes in Action by Marko Luksa (z-lib.org).pdf)
 
 ### kotlin
 
