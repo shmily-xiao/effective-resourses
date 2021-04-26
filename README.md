@@ -76,6 +76,7 @@
 ### SRE
 + [sre google 运维解密](sre/SRE_Google运维解密.pdf)
 + [k8s](sre/Kubernetes_in_Action_by_Marko_Luksa_(z-lib.org).pdf)
++ [CPI](sre/CPU_Performance_Evaluation--CPI.pdf)
 
 ### kotlin
 
