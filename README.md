@@ -72,6 +72,7 @@
 + [Essential Netty in Action 《Netty 实战(精髓)》【OL】](https://waylau.com/essential-netty-in-action/)
 + [akka in action](Java/[www.java1234.com]akka%20in%20action.pdf)
 + [akka in action 中文版 (包太大需要自行下载)](http://tesscn.aibooks.cc/file/938796-424205568)
++ [java asm guide](Java/jvm/asm4-guide-java.pdf)
 
 ### SRE
 + [sre google 运维解密](sre/SRE_Google运维解密.pdf)
